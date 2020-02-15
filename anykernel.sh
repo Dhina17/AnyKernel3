@@ -11,7 +11,7 @@ do.cleanup=1
 do.cleanuponabort=0
 device.name1=onclite
 device.name2=onc
-supported.versions=10
+supported.versions=
 supported.patchlevels=
 '; } # end properties
 
