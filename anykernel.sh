@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=KernelNoob by Dhina_17 @ xda-developers
+kernel.string=Test Kernel
 do.devicecheck=1
 do.modules=0
 do.systemless=1
